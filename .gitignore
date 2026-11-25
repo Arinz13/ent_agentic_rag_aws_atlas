@@ -160,6 +160,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Ignore all .env files
+.env
+.env*
+
 # Conda environments
 conda-meta/
 
