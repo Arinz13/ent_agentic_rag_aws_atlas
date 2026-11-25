@@ -153,6 +153,7 @@ activemq-data/
 .env
 .envrc
 .venv
+atlas/
 env/
 venv/
 ENV/
